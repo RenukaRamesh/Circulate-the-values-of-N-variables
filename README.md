@@ -28,7 +28,8 @@ def circulate():
     print("After circulating the values are:",result)
   ```
 ## Output:
-/home/sec/Pictures/Screenshots/circulate.png
+![circulate](https://github.com/RenukaRamesh/Circulate-the-values-of-N-variables/assets/145742979/0899bf05-b4c2-4ba0-826a-86d582de8d21)
+
 
 ## Result:
 Thus the cirulate of two values are successfully executed
