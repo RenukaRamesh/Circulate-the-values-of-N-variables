@@ -28,7 +28,7 @@ def circulate():
     print("After circulating the values are:",result)
   ```
 ## Output:
-![output](/circulate.png)
+/home/sec/Pictures/Screenshots/circulate.png
 
 ## Result:
-Thus the cirulate ot two values are successfully executed
+Thus the cirulate of two values are successfully executed
